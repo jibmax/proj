@@ -1,0 +1,48 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background:violet;
+    margin: 0;
+    padding: 0;
+}
+
+h1, p {
+    margin: 0;
+}
+
+#header {
+    background: red;
+    
+}
+#sideBarLeft {
+    background: orange;
+    width: 10em;
+    float: left;
+    text-align: center;
+}
+
+#maincontent  {
+    background: yellow;
+    padding:0 15em 0 10em;
+    margin-left: 1em;
+    margin-right: 1em
+}
+
+#sideBarRight {
+    background: green;
+    width: 15em;
+    float: right;
+}
+
+#footer {
+    background: blue;
+    clear: both;
+}
+
+#procon {
+    line-height: 2em
+}
+#procon2 {
+    text-align: right
+}
